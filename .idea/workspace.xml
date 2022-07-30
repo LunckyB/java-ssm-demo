@@ -7,73 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bdbaad7-292d-4a06-9e41-7b5fc24fce82" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demossm_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/demossm_war.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demossm_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/demossm_war_exploded.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/demossm.iml" afterPath="$PROJECT_DIR$/demossm.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/bean/SDepartment.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/bean/SDepartment.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/RegisterController.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/RegisterController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SUserMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SUserMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SUserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SUserService.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SUserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SUserServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SUserMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SUserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/bean/SDepartment.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/bean/SDepartment.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/controller/RegisterController.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/controller/RegisterController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/dao/SUserMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/dao/SUserMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/SUserService.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/SUserService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/impl/SUserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/impl/SUserServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/bean/SConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/bean/SDepartment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/bean/SKeyList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/bean/SUser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/controller/RegisterController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/controller/UserController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/dao/SUserMapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/service/SUserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/service/impl/SUserServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/test/TestObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/test/UserMapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/tools/Kits.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/tools/TimeUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/com/swl/demossm/tools/ToJSONUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/log.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/mapper/SUserMapper.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/mybatis-config.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/spring-dao.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/spring-service.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/classes/spring-web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/c3p0-0.9.5.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/fastjson-1.2.76.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/logback-classic-1.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/logback-core-1.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/mybatis-3.4.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/protobuf-java-2.6.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-aspects-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-context-support-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-jdbc-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-orm-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-tx-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-web-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/page/home.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/page/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/demossm/page/userinfo.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/controller/DepartmentController.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/controller/DepartmentController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/dao/SDepartmentMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/dao/SDepartmentMapper.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/SDepartmentService.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/SDepartmentService.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/impl/SDepartmentServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/swl/demossm/service/impl/SDepartmentServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SDepartmentMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/SDepartmentMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/controller/DepartmentController.class" afterPath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/controller/DepartmentController.class" />
+      <change beforePath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/dao/SDepartmentMapper.class" afterPath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/dao/SDepartmentMapper.class" />
+      <change beforePath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/service/SDepartmentService.class" afterPath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/service/SDepartmentService.class" />
+      <change beforePath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/service/impl/SDepartmentServiceImpl.class" afterPath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/com/swl/demossm/service/impl/SDepartmentServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/mapper/SDepartmentMapper.xml" afterPath="$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/mapper/SDepartmentMapper.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,46 +34,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/web.xml">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="DepartmentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="189" column="8" lean-forward="false" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+            <state relative-caret-position="468">
+              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SUserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/mapper/SUserMapper.xml">
+      <file leaf-file-name="SDepartmentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SDepartmentServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
-                <marker date="1659168200833" expanded="true" signature="1068:1474" ph="insert into s_user... " />
-                <marker date="1659168200833" expanded="true" signature="1593:1670" ph="select nickn... s_user" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SDepartmentMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/java-ssm-demo/WEB-INF/classes/mapper/SDepartmentMapper.xml">
+      <file leaf-file-name="TestMethos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/test/TestMethos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SDepartmentMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SDepartmentMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
-                <marker date="1659168200833" expanded="true" signature="1100:1521" ph="insert into s_department... " />
+                <marker date="1659169185477" expanded="true" signature="1100:1521" ph="insert into s_department... " />
+                <marker date="1659169185477" expanded="true" signature="1612:1686" ph="delete from s_department" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/test/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <marker date="1659154359352" expanded="true" signature="857:961" ph="select from user" />
+                <marker date="1659154359352" expanded="true" signature="1072:1138" ph="delete from user" />
+                <marker date="1659154359352" expanded="true" signature="1245:1462" ph="insert into user... " />
+                <marker date="1659154359352" expanded="true" signature="2787:3315" ph="update user... " />
+                <marker date="1659154359352" expanded="true" signature="3436:3689" ph="update user... " />
               </folding>
             </state>
           </provider>
@@ -161,18 +156,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/SUserMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SUserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SUserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SUserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/test/TestMethos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -257,81 +253,6 @@
             <path>
               <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demossm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="java-ssm-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -532,16 +453,15 @@
       <option name="presentableId" value="Default" />
       <updated>1659162843999</updated>
       <workItem from="1659162845425" duration="3835000" />
-      <workItem from="1659167485640" duration="870000" />
+      <workItem from="1659167485640" duration="2005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4705000" />
+    <option name="totallyTimeSpent" value="5840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1842" height="895" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -560,11 +480,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6631579" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7236842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41447368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25277779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -583,7 +503,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java</url>
+          <line>29</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -654,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -681,68 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#529#530#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <marker date="1659167005008" expanded="true" signature="1100:1521" ph="insert into s_department... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/test/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <marker date="1659154359352" expanded="true" signature="857:961" ph="select from user" />
-            <marker date="1659154359352" expanded="true" signature="1072:1138" ph="delete from user" />
-            <marker date="1659154359352" expanded="true" signature="1245:1462" ph="insert into user... " />
-            <marker date="1659154359352" expanded="true" signature="2787:3315" ph="update user... " />
-            <marker date="1659154359352" expanded="true" signature="3436:3689" ph="update user... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,16 +705,91 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1659168200833" expanded="true" signature="1100:1521" ph="insert into s_department... " />
+            <marker date="1659169315305" expanded="true" signature="1100:1521" ph="insert into s_department... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="3402">
           <caret line="189" column="8" lean-forward="false" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/SDepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/test/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1659154359352" expanded="true" signature="857:961" ph="select from user" />
+            <marker date="1659154359352" expanded="true" signature="1072:1138" ph="delete from user" />
+            <marker date="1659154359352" expanded="true" signature="1245:1462" ph="insert into user... " />
+            <marker date="1659154359352" expanded="true" signature="2787:3315" ph="update user... " />
+            <marker date="1659154359352" expanded="true" signature="3436:3689" ph="update user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SDepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <marker date="1659169185477" expanded="true" signature="1100:1521" ph="insert into s_department... " />
+            <marker date="1659169185477" expanded="true" signature="1612:1686" ph="delete from s_department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/dao/SDepartmentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/test/TestMethos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swl/demossm/service/impl/SDepartmentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

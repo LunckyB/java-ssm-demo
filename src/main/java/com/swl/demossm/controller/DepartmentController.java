@@ -29,4 +29,13 @@ public class DepartmentController {
         sDepartmentService.insertDepartment(sDepartment);
         return "success";
     }
+
+    @PostMapping("/remove")
+    @ResponseBody
+    public String removeDepartment(String id) {
+
+        sDepartmentService.removeDepartment(id);
+
+        return "success";
+    }
 }

@@ -19,4 +19,9 @@
         #{admin,jdbcType=VARCHAR}, #{addtime,jdbcType=VARCHAR}, #{adduser,jdbcType=VARCHAR}, #{updatetime,jdbcType=VARCHAR},
         #{updateuser,jdbcType=VARCHAR}, #{logo,jdbcType=VARCHAR}, #{isdel,jdbcType=INTEGER})
     </insert>
+    <delete id="removeDepartment" parameterType="java.lang.String">
+        delete
+        from s_department
+        where id = #{id,jdbcType=VARCHAR}
+    </delete>
 </mapper>

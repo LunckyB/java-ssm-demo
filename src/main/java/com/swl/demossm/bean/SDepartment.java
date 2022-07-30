@@ -16,7 +16,7 @@ public class SDepartment {
     private String logo; // 部门logo
     private Integer isdel; //  假删除 0: 正常 1: 逻辑删除
 
-    public SDepartment() {
+    public SDepartment(String id) {
     }
 
     public SDepartment(String id, String name, String parentid, String admin, String addtime, String adduser, String updatetime, String updateuser, String logo, Integer isdel) {

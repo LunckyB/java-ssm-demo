@@ -17,4 +17,10 @@ public class SUserServiceImpl implements SUserService {
     public void registerUser(SUser sUser) {
         sUserMapper.registerUser(sUser);
     }
+
+    @Override
+    public SUser selectByPrimaryKey(String id) {
+
+        return sUserMapper.selectByPrimaryKey(id);
+    }
 }

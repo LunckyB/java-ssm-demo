@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.swl.demossm.dao.SDepartmentMapper">
+    <resultMap id="BaseResultMap" type="com.swl.demossm.bean.SDepartment">
+        <id column="id" jdbcType="VARCHAR" property="id"/>
+        <result column="name" jdbcType="VARCHAR" property="name"/>
+        <result column="parentid" jdbcType="VARCHAR" property="parentid"/>
+        <result column="admin" jdbcType="VARCHAR" property="admin"/>
+        <result column="addtime" jdbcType="VARCHAR" property="addtime"/>
+        <result column="adduser" jdbcType="VARCHAR" property="adduser"/>
+        <result column="updatetime" jdbcType="VARCHAR" property="updatetime"/>
+        <result column="updateuser" jdbcType="VARCHAR" property="updateuser"/>
+        <result column="logo" jdbcType="VARCHAR" property="logo"/>
+        <result column="isdel" jdbcType="INTEGER" property="isdel"/>
+    </resultMap>
+    <insert id="createDepartment" parameterType="com.swl.demossm.bean.SDepartment">
+        insert into s_department (id, name, parentid, admin, addtime, adduser, updatetime, updateuser, logo, isdel)
+        values (#{id,jdbcType=VARCHAR}, #{name,jdbcType=VARCHAR}, #{parentid,jdbcType=VARCHAR},
+        #{admin,jdbcType=VARCHAR}, #{addtime,jdbcType=VARCHAR}, #{adduser,jdbcType=VARCHAR}, #{updatetime,jdbcType=VARCHAR},
+        #{updateuser,jdbcType=VARCHAR}, #{logo,jdbcType=VARCHAR}, #{isdel,jdbcType=INTEGER})
+    </insert>
+</mapper>

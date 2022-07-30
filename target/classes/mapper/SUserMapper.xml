@@ -19,4 +19,9 @@
         #{password,jdbcType=VARCHAR}, #{logo,jdbcType=VARCHAR}, #{departid,jdbcType=VARCHAR}, #{ip,jdbcType=VARCHAR},
          #{addtime,jdbcType=VARCHAR}, #{gender,jdbcType=INTEGER}, #{isdel,jdbcType=INTEGER})
     </insert>
+    <select id="selectByPrimaryKey" parameterType="java.lang.String" resultMap="BaseResultMap">
+        select nickname
+        from s_user
+        where id = #{id,jdbcType=VARCHAR}
+    </select>
 </mapper>

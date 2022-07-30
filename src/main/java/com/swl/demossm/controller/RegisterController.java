@@ -30,6 +30,17 @@ public class RegisterController {
 
         System.out.println("请求参数： " + toJSONUtils.toJSONString(params));
         sUserService.registerUser(sUser);
-        return "home";
+        return "success";
     }
+
+    @PostMapping("/getUserInfo")
+    @ResponseBody
+    public String selectByPrimaryKey(String id) {
+        SUser sUser = sUserService.selectByPrimaryKey(id);
+
+        System.out.println("请求参数： " + toJSONUtils.toJSONString(sUser));
+
+        return "success";
+    }
+
 }
